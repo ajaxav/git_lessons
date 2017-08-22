@@ -7,3 +7,5 @@ this can be used for starter project
 
 adding some more readme
 we moved to ssh
+
+adding from github
